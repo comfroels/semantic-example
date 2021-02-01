@@ -1,0 +1,19 @@
+{
+  "name": "semantic-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comfroels/semantic-example.git"
+  },
+  "author": "Nathan White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comfroels/semantic-example/issues"
+  },
+  "homepage": "https://github.com/comfroels/semantic-example#readme"
+}
