@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/comfroels/semantic-example#readme",
   "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
     "commitizen": "^4.2.3",
     "cz-conventional-changelog": "^3.3.0",
     "semantic-release": "^17.3.7"
