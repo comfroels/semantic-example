@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/comfroels/semantic-example/compare/v1.2.1...v1.2.2) (2021-02-01)
+
+
+### Bug Fixes
+
+* **readme.md:** correcting spelling on README.md ([62327e4](https://github.com/comfroels/semantic-example/commit/62327e459dfe763c53c7a19f75fc617fe4a41991))
+
 ## [1.2.1](https://github.com/comfroels/semantic-example/compare/v1.2.0...v1.2.1) (2021-02-01)
 
 
